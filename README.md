@@ -19,3 +19,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 - 	leonie-swart@hotmail.com
 - 	https://github.com/leonieswart
 
+
+- Carl Vanderwegen
+	- email: carl.vanderwegen.mivix@gmail.com
+	- GitHub: https://github.com/mivixof
+	
