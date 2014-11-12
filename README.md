@@ -19,5 +19,9 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- email: olgapovitukhina@gmail.com
 	- GitHub: https://github.com/knopka-0075
 
+- Storms Geertrui
+	- email: geertruistorms@gmail.com
+	- GitHub: https://github.com/geertruistorms
+
 
 
