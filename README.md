@@ -19,3 +19,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 - 	leonie-swart@hotmail.com
 - 	https://github.com/leonieswart
 
+- Simeon Van den Bril
+- 	email:  simeon.van.den.bril@gmail.com
+- 	GitHub: https://github.com/Feronium
