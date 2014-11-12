@@ -11,11 +11,13 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
-- Iliaens Jonas
-	- email: jonas_iliaens@icloud.com
-	- GitHub: https://github.com/jonasiliaens
+- Naam Voornaam
+	- email: ---
+	- GitHub: ---
+	
+- Olga Povitukhina
+	- email: olgapovitukhina@gmail.com
+	- GitHub: https://github.com/knopka-0075
 
-- Leonie Swart
-- 	leonie-swart@hotmail.com
-- 	https://github.com/leonieswart
+
 
