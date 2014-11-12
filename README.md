@@ -23,5 +23,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- email: geertruistorms@gmail.com
 	- GitHub: https://github.com/geertruistorms
 
+- Van Hees Christoph
+	- email: christoph.vanhees@hotmail.com
+	- GitHub: https://github.com/Christophvh
 
 
