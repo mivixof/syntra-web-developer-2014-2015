@@ -28,3 +28,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- GitHub: https://github.com/Christophvh
 
 
+- Simeon Van den Bril
+- 	email:  simeon.van.den.bril@gmail.com
+- 	GitHub: https://github.com/Feronium
